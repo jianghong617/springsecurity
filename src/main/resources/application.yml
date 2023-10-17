@@ -1,0 +1,5 @@
+#spring:
+#  security:
+#    user:
+#      name: jianghong
+#      password: jh1995
